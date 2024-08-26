@@ -1,0 +1,16 @@
+Python
+  Origem: O python era um hobby do Van Rossum.
+  Influência: Continuação da linguagem ABC.
+  Dificuldade de uso: è um a linguagem facil e intuitiva.
+  Open source
+
+  Breve Tragetoria:
+    1989 -> criação do python
+    2000 -> Segunda versão do python com List Comprehensions.
+    2001 -> Documentação do python.
+    2008 -> Versão 3.0 foi criada
+
+  Curiosidade
+    "O python não é boa para APP Mobile."  
+
+  python -V para interpretador python  
