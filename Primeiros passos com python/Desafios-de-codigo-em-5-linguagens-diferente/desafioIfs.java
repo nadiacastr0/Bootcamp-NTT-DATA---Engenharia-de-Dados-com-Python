@@ -14,7 +14,7 @@ public class desafioIfs {
             //atribui a aliquota de 5%
             valorImposto = 0.05F * valorSalario;
         }
-        else if(valorSalario >= 1101 && valorSalario <= 2500) {
+        else if(valorSalario >= 110.01 && valorSalario <= 2500) {
             valorImposto = 0.10F * valorSalario;
         }
         else {
