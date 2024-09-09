@@ -1,0 +1,41 @@
+Metadata-Version: 2.1
+Name: image-processing-nadia
+Version: 0.0.1
+Summary: Image Processing Package using Skimage
+Home-page: https://github.com/nadiacastr0/image-processing-package
+Author: Nadia
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: scikit-image>=0.16.1
+
+# image_processing
+
+Description. 
+The package image_processing is used to:
+	Processing:
+		- Histogram matching
+		- Strutural similarity
+		- Resize Image
+	Utils:
+	- Read image
+	- Save image
+	- Plot image
+	- Plot result
+	- Plot histogram
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+
+```bash
+pip install image_processing
+```
+
+
+## Author
+Nadia
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
