@@ -44,23 +44,25 @@ Este bootcamp é focado em **Engenharia de Dados**, com ênfase no uso de **Pyth
 ### Relatório 1: **[Análise Descritiva sobre dados de diabetes]**
 
 ![Relatório de Diabetes](./Power%20BI/imagens%20do%20desafio%20-%203/Pagina%201.png)
-![Relatório de Diabetes](./Power%20BI/imagens%20do%20desafio%20-%203/Pagina%202.png)
 
 > **Descrição**: Este relatório mostra a análise descritiva sobre dados de diabetes, com destaque para os principais resultados de glicose por ano e por Gravidezes.
 
 ### Relatório 2: **[Analisando dados de Vendas no Power BI]**
 
 ![Relatório de Desempenho](./Power%20BI/imagens%20do%20desafio%20-%201/Página1.png)
-![Relatório de Desempenho](./Power%20BI/imagens%20do%20desafio%20-%201/Página2.png)
-![Relatório de Desempenho](./Power%20BI/imagens%20do%20desafio%20-%201/Página3.png)
 
 > **Descrição**: Análise do desempenho de vendas, com destaque para os principais produtos e regiões de vendas..
 
 ### Relatório 3: **[Gerencial de Vendas com Power BI]**
 
 ![Relatório de Desempenho](./Power%20BI/imagens%20do%20desafio%20-%202/Pagina%201.png)
-![Relatório de Desempenho](./Power%20BI/imagens%20do%20desafio%20-%202/Pagina%202.png)
 
 > **Descrição**: Análise gerencial dos produtos de vendidos, comparando lucro por ano e países.
+
+### Relatório 3: **[Gerencial de Vendas com Tomada de decisões]**
+
+![Relatório de Vendas](./Power%20BI/imagens%20do%20desafio%20-%204/imagem%201.png)
+
+> **Descrição**: Desafio de Projeto - Atualizando Relatório Financeiro com Foco na Experiência do Usuário.
 
 ---
