@@ -9,7 +9,7 @@ Dimensões:
 - Disciplina: Inclui informações sobre as disciplinas, como nome, descrição e departamento responsável.
 - Data: Permite a análise temporal dos dados, com campos que abrangem diferentes níveis de granularidade, como ano, mês, dia, trimestre e semestre.
 
-![star schema](./diagrama-star-schema.png)
+![star schema](./image-diagrama-star-schema.png)
 
 ## Modelando um Star Schema com DAX
 ![star schema dax]()
