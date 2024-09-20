@@ -12,4 +12,14 @@ Dimensões:
 ![star schema](./image-diagrama-star-schema.png)
 
 ## Modelando um Star Schema com DAX
-![star schema dax]()
+Utilizei a tabela única de Financial Sample para criar as tabelas dimensão e fato do nosso modelo baseado em star schema.
+
+Fato: F_Vendas 
+Dimensões:
+- D_Produtos: tabela criada por agrupamento das informações, colunas sendo construídas a partir de condicional – Índice de Produtos
+- D_Produtos_Detalhes
+- D_Descontos 
+- D_Detalhes
+- D_Calendário - Criada por DAX com calendar()
+
+![star schema dax](./image-diagrama-star-schema-dax.png)
