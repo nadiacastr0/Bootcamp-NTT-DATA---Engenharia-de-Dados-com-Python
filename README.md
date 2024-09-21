@@ -59,10 +59,14 @@ Este bootcamp é focado em **Engenharia de Dados**, com ênfase no uso de **Pyth
 
 > **Descrição**: Análise gerencial dos produtos de vendidos, comparando lucro por ano e países.
 
-### Relatório 3: **[Gerencial de Vendas com Tomada de decisões]**
+### Relatório 4: **[Gerencial de Vendas com Tomada de decisões]**
 
 ![Relatório de Vendas](./Power%20BI/imagens%20do%20desafio%20-%204/imagem%201.png)
 
 > **Descrição**: Desafio de Projeto - Atualizando Relatório Financeiro com Foco na Experiência do Usuário.
+
+### Relatório 5: **[Projeto de Data Analytics com Power BI]**
+
+![Relatório de Vendas](./Power%20BI/imagens%20do%20desafio-%205/imagem%203.png)
 
 ---
