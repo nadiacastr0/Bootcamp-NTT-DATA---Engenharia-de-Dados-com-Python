@@ -25,20 +25,7 @@ Este bootcamp é focado em **Engenharia de Dados**, com ênfase no uso de **Pyth
 - Processamento de Dados com Power BI.
 - Modelagem de Dados com Power BI.
 - Data Analytics e Storytelling com Power BI.
-
-## 📝 Projetos Python
-
-### 1. Criando um Sistema Bancário com Python
-- [Descrição do projeto]
-
-### 2. Otimizando o Sistema Bancário com Funções Python
-- [Descrição do projeto]
-
-### 2. Modelando o Sistema Bancário em POO com Python
-- [Descrição do projeto]
-
 ---
-
 ## 📊 Relatórios do Power BI
 
 ### Relatório 1: **[Análise Descritiva sobre dados de diabetes]**
